@@ -1,13 +1,14 @@
 title: "Shihlung Lai"
 email: janchen0716@gmail.com
 description: "Personal academic site of Shihlung Lai"
-baseurl: "/mm-github-pages-starter"
-url: "https://janchen39054460.github.io"
+baseurl: "/mm-github-pages-starter" # 子資料夾部署時填入 repo 名稱
+url: "https://janchen39054460.github.io" # GitHub 使用者頁網址
 theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 author:
   name: "Shihlung Lai"
@@ -15,3 +16,13 @@ author:
   bio: "Graduate student at National Taiwan University of Science and Technology"
 
 markdown: kramdown
+
+# 避免 GitHub Pages 出錯
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
