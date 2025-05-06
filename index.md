@@ -4,18 +4,17 @@ author_profile: true
 title: "Shihlung Lai | Academic Homepage"
 ---
 
-
 ## About Me
 
-I am a graduate student at the National Taiwan University of Science and Technology (NTUST), specializing in artificial intelligence research.
+I am a graduate student at the National Taiwan University of Science and Technology (NTUST), conducting research in artificial intelligence and machine learning.
 
-My academic interests include:
+My research interests include:
 - Machine Learning
 - Federated Learning
-- Non-IID data handling
+- Non-IID data distributions
 - Diffusion models for data augmentation
 - Privacy-preserving machine learning (e.g., Differential Privacy)
 
-My current research focuses on improving performance and fairness in federated systems under data heterogeneity. I am particularly interested in combining diffusion models and federated learning to enhance data representation and personalization.
+Currently, I focus on enhancing the performance and fairness of federated learning systems under data heterogeneity. In particular, I am exploring the integration of diffusion models into federated learning frameworks to improve data representation and personalization.
 
-Feel free to contact me at [janchen0716@gmail.com](mailto:janchen0716@gmail.com).
+If you are interested in my work or potential collaborations, feel free to contact me at [janchen0716@gmail.com](mailto:janchen0716@gmail.com).
