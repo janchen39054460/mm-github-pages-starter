@@ -1,9 +1,11 @@
-title: "Shihlung Lai"
+title: "Shihlung Lai | Academic Homepage"
 email: janchen0716@gmail.com
 description: "Personal academic site of Shihlung Lai"
-baseurl: "/mm-github-pages-starter"
-url: "https://janchen39054460.github.io"
-remote_theme: mmistakes/minimal-mistakes
+baseurl: "/mm-github-pages-starter"  # 子資料夾名稱（如非 root domain，這是必要的）
+url: "https://janchen39054460.github.io"  # GitHub Pages 網域
+
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -13,6 +15,6 @@ plugins:
 author:
   name: "Shihlung Lai"
   avatar: "/assets/images/218769.jpg"
-  bio: "Graduate student at National Taiwan University of Science and Technology"
+  bio: "Graduate student at National Taiwan University of Science and Technology (NTUST). Research interests include AI, Machine Learning, Federated Learning, and Non-IID Data Augmentation."
 
 markdown: kramdown
