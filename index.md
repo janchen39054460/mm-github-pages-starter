@@ -1,8 +1,9 @@
 ---
-layout: splash
-title: "Shihlung Lai | Academic Homepage"
+layout: single
 author_profile: true
+title: "Shihlung Lai | Academic Homepage"
 ---
+
 
 ## About Me
 
