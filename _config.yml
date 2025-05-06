@@ -1,9 +1,8 @@
 title: "Shihlung Lai"
 email: janchen0716@gmail.com
-description: >- 
-  Personal academic website of Shihlung Lai.
-baseurl: ""
-url: "https://janchenlai.github.io"
+description: "Personal academic site of Shihlung Lai"
+baseurl: "/mm-github-pages-starter"
+url: "https://janchen39054460.github.io"
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
