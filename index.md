@@ -1,4 +1,4 @@
-<!-- trigger rebuild -->
+<!-- trigger -->
 ---
 layout: home
 author_profile: true
