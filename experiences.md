@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: "Experiences"
 permalink: /experiences/
 author_profile: true
 ---
