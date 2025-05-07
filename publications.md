@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-permalink: /publications/
+permalink: /experiences/
 author_profile: true
 ---
 
